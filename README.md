@@ -1,16 +1,16 @@
 # 🎉 Welcome to TreeManagement repository 🎉
 
-## You will find in this repo:
+## 1️⃣ You will find in this repo:
 * TreeManagement Java source code
 * .gitignore file to tell Git which ones will be uploaded
 * README.md - this file ifself to show the home page of this repo
-### Funtion of this program:
+### 2️⃣ Funtion of this program:
 * Read file from .txt
 * Implement the JTree Department Application using Layout Manager
 * Create new department/staff
 * Delete department/staff
 * Save to file
-### UI of this program:
+### 3️⃣ UI of this program:
 ![UI](https://github.com/vi-ht/TreeManagement/blob/master/image/ui.png)
 
 ## 💬 Connect me via ❓ 
