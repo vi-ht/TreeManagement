@@ -1,4 +1,4 @@
-# Welcome to TreeManagement repository
+# 🎉 Welcome to TreeManagement repository 🎉
 
 ## You will find in this repo:
 * TreeManagement Java source code
