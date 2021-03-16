@@ -1,0 +1,15 @@
+HR,Human Resources:
+E111,Nguyen Van Thang-34
+E222,Tran Thanh Quang-456
+E009,Huynh Thanh Vi-500
+TD,Technical Department:
+E324,Van Thai-654
+E789,Quoc Khanh-600
+E999,Xuan Mi-792
+AD,Accounting Department:
+E008,Hoang Yen-800
+E001,Nguyen Long-921
+BD,Business Department:
+E345,Nguyen Van Huy-600
+E456,Nguyen Thuy Duong-489
+E508,Tran Van Anh-811
